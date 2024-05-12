@@ -2,3 +2,6 @@ ANBIYA RESOLUSI :
   1. Makan
   2. Mandi
   3. Tidur
+  4. Olahraga
+  5. Nonton
+  6. Belajar
